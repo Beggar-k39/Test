@@ -1,0 +1,3 @@
+*.exe
+/vendor
+!test2.exe
